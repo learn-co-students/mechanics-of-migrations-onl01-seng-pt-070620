@@ -16,3 +16,4 @@ ActiveRecord::Base.establish_connection(
 )
 
 require_relative "../artist.rb"
+
